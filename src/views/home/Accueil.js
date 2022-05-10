@@ -3,6 +3,7 @@ import Header from './Section_header/Header';
 import CardComponents from './Section_card/Card';
 import Contact from './Section_contact/Contact';
 import Details from './Section_details/Details';
+import Cercle from './Section_img/Cercle';
 
 import './Accueil.css';
 
@@ -14,6 +15,7 @@ class Accueil extends Component {
         <div>
           <Header />
           <CardComponents />
+          <Cercle />
           <div className="mp">
             <Details/> 
           </div>
