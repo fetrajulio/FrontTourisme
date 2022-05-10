@@ -20,7 +20,7 @@ const Navbar = () => (
                   Plus
                 <ul class="dropdown__menu mt-3" id="sweets-dropdown">
                     <li><NavLink to="/Login">Login</NavLink></li>
-                    <li><NavLink to="/">Register</NavLink></li>
+                    <li><NavLink to="/Register">Register</NavLink></li>
                  </ul>
               </li>
             </ul>
