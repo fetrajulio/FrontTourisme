@@ -13,10 +13,8 @@ class Details extends Component {
       <img src={imgBaobab} alt="responsive webite" class="img-fluid"/>
     </div>
     <div class="col-xl-6 col-lg-6 col-md-6">
-      <h2>Bootstrap Responsive Website</h2>
-      <p>Bootstrap is a famous front-end framework used to create mobile-first responsive websites. The latest release
-        version of bootstrap has removed JQuery dependency not fully work on vanilla javascript.</p>
-      <p>Using bootstrap it becomes very easy to build a responsive website.</p>
+      <h2>The Baobab, The Emblematic Malagasy Tree</h2>
+      <p>A true emblem of Malagasy flora, the baobab is a majestic and sacred tree which has eight species. Six of them only grow in Madagascar. The alley of baobabs brings together the most specimens in the world, so you can see their impressive size and admire certain trunks intertwining naturally (baobab in love).</p>
     </div>
   </div>
 </div>       

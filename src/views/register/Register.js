@@ -1,5 +1,5 @@
 import React, { Component, Fragment } from 'react';
-import loginImg from './../../img/register.svg'
+import loginImg from './../../img/register.png'
 import './Register.css';
 
 class Register extends Component {

@@ -20,6 +20,7 @@ class Accueil extends Component {
           <div className='container mp'>
             <Contact />
           </div>
+          
         </div>
     );
   }
