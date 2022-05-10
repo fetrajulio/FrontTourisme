@@ -4,7 +4,7 @@ import './Navbar.css';
 import { NavLink } from 'react-router-dom';
 
 const Navbar = () => (
-    <nav class="e-navbar">
+    <nav class="e-navbar container relative">
         <section class="d-flex justify-content-between align-items-center py-3">
 
             <div class="e-logo">
@@ -19,8 +19,8 @@ const Navbar = () => (
               <li class="e-right-icons e-ml dropdown">
                   Plus
                 <ul class="dropdown__menu mt-3" id="sweets-dropdown">
-                    <li><NavLink to="/account">Accounts</NavLink></li>
-                    <li><NavLink to="/settings">Settings</NavLink></li>
+                    <li><NavLink to="/Login">Login</NavLink></li>
+                    <li><NavLink to="/">Register</NavLink></li>
                  </ul>
               </li>
             </ul>
