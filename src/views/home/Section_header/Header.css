@@ -1,7 +1,7 @@
   #splash {
         /*height: calc(100vh - 320px) !important; Responsive mode mobile*/
         height: calc(100vh - 25px) !important;
-        background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('./../../../img/header-background.jpg');
+        background: linear-gradient(rgba(0, 0, 0, 0.3), rgba(0, 0, 0, 0.5)), url('./../../../img/135515.jpg');
         background-position: 50% 50%;
         background-repeat: no-repeat;
         background-size: cover;
@@ -38,4 +38,7 @@
             width: 70%;
        }
    }
-    
+
+   .marginside {
+       margin: 0 70px;
+   }

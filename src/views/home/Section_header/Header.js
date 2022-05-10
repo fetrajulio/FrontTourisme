@@ -9,11 +9,12 @@ class Header extends Component {
           <div class="wrapper container">
               <div class="home-content d-flex h-100 justify-content-center align-items-center">
                   <div class="splash-text text-center">
-                      <h1>Lorem ipsum dolor sit amet, consectetur adipiscing elit</h1>
-                      <p class="mb-5 d-none d-md-block">Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nulla facilisis id est in viverra. Pellentesque tincidunt mi enim, eu tincidunt arcu tempus at. Maecenas vitae nunc ut sapien rutrum fringilla sit amet nec dui. Duis imperdiet fringilla blandit.
+                      <h1>Welcome to Madagascar</h1>
+                      <p class="mb-5 d-none d-md-block marginside">Madagascar is an amazing and fascinating island which is sometimes also referred to as the eight continent.  As a bubbling sanctuary, Madagascar is an ode to life filled with magical and rare site of beauty. Its high lands and mountains, primary forests, the depths of its lagoons, towns and villages offer a remarkable explosion of colors, shapes and sounds which are not available elsewhere and a feast to the eyes. Madagascar has made a lasting impression on its visitors' hearts that never fades. Madagascar is a call to travel. One of those rare destinations that has the art of awakening dreams of departure, desires to the unknown and needs to relate to others.
+It is the most beautiful of all its treasures!
                       </p>
                       <div class="text-center">
-                          <a href="#" class="btn btn-primary">Découvrez nos produits</a>
+                          <a href="#" class="btn btn-outline-secondary">Learn more about the exceptional sites and tourism</a>
                       </div>
                   </div>
               </div>
